@@ -1,6 +1,6 @@
 # Manim Projects
 
-This is a public repository containing a collection of my Manim scripts and animations.
+This is a public repository containing a collection of some of my Manim scripts and animations.
 
 ## Disclaimer
 
