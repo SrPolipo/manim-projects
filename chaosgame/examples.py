@@ -22,12 +22,10 @@ def sierpinski_triangle(
         lambda x: 0.5*(x + sierpinski_vertices[2]),
     ]
 
-    default_colors: list[ManimColor] = [GREEN, ORANGE,PURPLE]
 
     return Chaosgame(
         functions = sierpsinski_functions,
         vertices= sierpinski_vertices,
-        colors = default_colors,
         **kwargs,
     )
 
